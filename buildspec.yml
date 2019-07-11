@@ -36,8 +36,8 @@ artifacts:
      - '**/*.war'
     # - location
   #name: $(date +%Y-%m-%d)
-  #discard-paths: yes
-  base-directory: '*/deployartifact/webapp/'
+  discard-paths: yes
+  base-directory: '**/webapp/'
 #cache:
   #paths:
     # - paths
