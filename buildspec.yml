@@ -37,7 +37,7 @@ artifacts:
     # - location
   #name: $(date +%Y-%m-%d)
   discard-paths: yes
-  base-directory: '**/webapp/'
+  base-directory: '/'
 #cache:
   #paths:
     # - paths
